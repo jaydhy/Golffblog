@@ -1,4 +1,4 @@
-# Golff已收录于CertiK Skynet天网扫描系统  获94安全评分
+# Golff已收录于CertiK Skynet天网扫描系统 获94安全评分
 
 一站式加密银行Golff Finance已被CertiK Skynet天网扫描系统收录，接受其提供7* 24小时运行监控和危险警报提示，且提供合约漏洞扫描，为用户资产提供安全有力保障。CertiK将助力Golff建立更高的安全标准，一同创造DeFi生态安全发展。 
 
