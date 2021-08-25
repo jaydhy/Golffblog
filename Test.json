@@ -1,0 +1,65 @@
+{
+      "weekly": {
+          "en-US": [
+                {
+                "id": 1,
+                "title": "Golff Farm (BSC) will add GOF pool (Mine PIGGY)",
+                "description":
+                    "Golff Finance and Piggy Finance have become strategic partners to build the DeFi ecosystem. We will work closely together on BSC.",
+                "mk": "https://scott711.github.io/GolffTest/GolffFarm.md",
+                "img": "https://scott711.github.io/GolffTest/1.png",
+                "alt": "Golff Farm (BSC) will add GOF pool (Mine PIGGY)",
+                "tips": "Heco",
+                "published": "May 01，2021"
+                },
+                {
+                "id": 2,
+                "title": "Golff Farm (BSC) will add GOF pool (Mine PIGGY)",
+                "description":
+                    "Golff Finance and Piggy Finance have become strategic partners to build the DeFi ecosystem. We will work closely together on BSC.",
+                "mk": "https://scott711.github.io/GolffTest/GolffFarm.md",
+                "img": "https://scott711.github.io/GolffTest/1.png",
+                "alt": "Golff Farm (BSC) will add GOF pool (Mine PIGGY)",
+                "tips": "Heco,BSC",
+                "published": "May 01，2021"
+                },
+                {
+                "id": 3,
+                "title": "Golff Farm (BSC) will add GOF pool (Mine PIGGY)",
+                "description":
+                    "Golff Finance and Piggy Finance have become strategic partners to build the DeFi ecosystem. We will work closely together on BSC.",
+                "mk": "https://scott711.github.io/GolffTest/GolffFarm.md",
+                "img": "https://scott711.github.io/GolffTest/1.png",
+                "alt": "Golff Farm (BSC) will add GOF pool (Mine PIGGY)",
+                "tips": "Heco",
+                "published": "May 01，2021"
+                }
+            ],
+        "zh-CN": [
+            {
+                "id": 1,
+                "title": "DeFi聚合器，致力于打造轻量、开放、自由的金融世界！",
+                "description":
+                    "Golff 定位于一站式加密银行，产品形态主要为DeFi聚合器平台，致力于创造一个轻量、开放、自由的金融世界。目前BitKeep、imToken、Tokenpcoket等多个钱包已支持Golff全生态产品。Golff核心生态代币GOF已上线火币、Gate.io、LongBit、抹茶等20多家主流交易所。",
+                "mk": "https://scott711.github.io/GolffTest/GolffFarm.md",
+                "img": "https://scott711.github.io/GolffTest/1.png",
+                "alt": "Golff Farm (BSC) will add GOF pool (Mine PIGGY)",
+                "tips": "Heco",
+                "published": "May 01，2021"
+                }
+        ],
+        "ko-KR": [
+            {
+                "id": 1,
+                "title": "DeFi 애그리게이터는 가볍고 개방된 무료 금융 세계를 만들기 위해 최선을 다하고 있습니다!",
+                "description":
+                    "Golff는 원스톱 암호화 은행에 위치하고 있으며 제품 형태는 주로 DeFi 수집기 플랫폼으로 가볍고 개방적이며 자유로운 금융 세계를 만들기 위해 노력하고 있습니다. 현재 BitKeep, imToken, Tokenpcoket 등과 같은 많은 지갑은 이미 Golff의 완전한 생태 제품을 지원합니다. Golff의 핵심 생태 토큰 GOF는 Huobi, Gate.io, LongBit 및 Matcha를 포함한 20개 이상의 주류 거래소에 상장되었습니다.",
+                "mk": "https://scott711.github.io/GolffTest/GolffFarm.md",
+                "img": "https://scott711.github.io/GolffTest/1.png",
+                "alt": "Golff Farm (BSC) will add GOF pool (Mine PIGGY)",
+                "tips": "Heco",
+                "published": "May 01，2021"
+                }
+        ]
+      }
+}
