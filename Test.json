@@ -34,7 +34,19 @@
                 "tips": "Heco",
                 "published": "May 01，2021"
                 }
-            ],
+                 ],  
+        "zh-CN": [
+            {
+                "id": 1,
+                "title": "Golff BSC版机枪池新增TUSD代币池并同步支持Farm挖矿奖励",
+                "description":
+                    "新增上线TUSD（美元稳定币）代币池，并同步上线Farm挖矿奖励",
+                "mk": "https://jaydhy.github.io/Golffblog/gonggao/827.md",
+                "img": "https://jaydhy.github.io/Golffblog/Picture/827.png",
+                "alt": "新池上线",
+                "tips": "BSC",
+                "published": "Aug 27，2021"
+            ],  
         "zh-CN": [
             {
                 "id": 1,
