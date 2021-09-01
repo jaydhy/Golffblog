@@ -3,62 +3,86 @@
           "en-US": [
                 {
                 "id": 1,
-                "title": "Golff is listed on CertiK Skynet System with 94 security score",
+                "title": "Golff Bridge Cross-chain Bridge New Launch",
                 "description":
-                    "The One-Stop services Encrypted bank Golff Finance has been listed in the CertiK Skynet scanning system.",
-                "mk": "https://jaydhy.github.io/Golffblog/gonggao/91.md",
-                "img": "https://scott711.github.io/GolffTest/1.png",
-                "alt": "Golff Farm (BSC) will add GOF pool (Mine PIGGY)",
-                "tips": "Heco",
-                "published": "May 01，2021"
+                    "This Week’s Project Data",
+                "mk": "http://docs.golff.com/blog/notice/bridge.md",
+                "img": "http://docs.golff.com/blog/page/bridge.png",
+                "alt": "Golff Bridge Cross-chain Bridge New Launch",
+                "tips": "Bridge",
+                "published": "Aug 31，2021"
                 },
                 {
                 "id": 2,
-                "title": "Golff Farm (BSC) will add GOF pool (Mine PIGGY)",
+                "title": "Golff Weekly Project Progress(8.24—8.30)",
                 "description":
-                    "Golff Finance and Piggy Finance have become strategic partners to build the DeFi ecosystem. We will work closely together on BSC.",
-                "mk": "https://scott711.github.io/GolffTest/GolffFarm.md",
-                "img": "https://scott711.github.io/GolffTest/1.png",
-                "alt": "Golff Farm (BSC) will add GOF pool (Mine PIGGY)",
-                "tips": "Heco,BSC",
-                "published": "May 01，2021"
+                    "This Week’s Project Data",
+                "mk": "http://docs.golff.com/blog/notice/week830.md",
+                "img": "http://docs.golff.com/blog/page/830.jpg",
+                "alt": "Golff Weekly Project Progress",
+                "tips": "Weekly",
+                "published": "Aug 31，2021"
                 },
                 {
                 "id": 3,
-                "title": "Golff Farm (BSC) will add GOF pool (Mine PIGGY)",
+                "title": "Golff BSC Vault Pool Adds TUSD Token Pool and Simultaneously Supports Farm Mining Rewards",
                 "description":
-                    "Golff Finance and Piggy Finance have become strategic partners to build the DeFi ecosystem. We will work closely together on BSC.",
-                "mk": "https://scott711.github.io/GolffTest/GolffFarm.md",
-                "img": "https://scott711.github.io/GolffTest/1.png",
-                "alt": "Golff Farm (BSC) will add GOF pool (Mine PIGGY)",
-                "tips": "Heco",
-                "published": "May 01，2021"
-                 }
-            ], 
-        "zh-CN": [
-               {
-                    "id": 1,
-                "title": "Golff BSC版机枪池新增TUSD代币池并同步支持Farm挖矿奖励",
-                "description":
-                    "新增上线TUSD（美元稳定币）代币池，并同步上线Farm挖矿奖励",
-                "mk": "https://jaydhy.github.io/Golffblog/gonggao/827.md",
-                "img": "https://jaydhy.github.io/Golffblog/Picture/827.png",
-                "alt": "新池上线",
+                    "The Golff BSC Vault pool will add a new token pool of TUSD (stable coin) on August 27, 2021 at 11:00 (UTC+8) and launch the Farm mining bonus at the same time, welcome to participate.",
+                "mk": "http://docs.golff.com/blog/notice/tusd.md",
+                "img": "http://docs.golff.com/blog/page/tusd.png",
+                "alt": "Golff BSC Vault Pool Adds TUSD Token Pool",
                 "tips": "BSC",
                 "published": "Aug 27，2021"
-                  },
-             {
-                "id": 2,
-                "title": "DeFi聚合器，致力于打造轻量、开放、自由的金融世界！",
+                },
+                {
+                "id": 4,
+                "title": "Golff is listed on CertiK Skynet System with 94 security score",
                 "description":
-                    "Golff 定位于一站式加密银行，产品形态主要为DeFi聚合器平台，致力于创造一个轻量、开放、自由的金融世界。目前BitKeep、imToken、Tokenpcoket等多个钱包已支持Golff全生态产品。Golff核心生态代币GOF已上线火币、Gate.io、LongBit、抹茶等20多家主流交易所。",
-                "mk": "https://jaydhy.github.io/Golffblog/gonggao/CertiK_Skynet.md",
-                "img": "https://scott711.github.io/GolffTest/1.png",
-                "alt": "Golff Farm (BSC) will add GOF pool (Mine PIGGY)",
-                "tips": "Heco",
-                "published": "May 01，2021"
+                    "The One-Stop services Encrypted bank Golff Finance has been listed in the CertiK Skynet scanning system.",
+                "mk": "http://docs.golff.com/blog/notice/CertiK.md",
+                "img": "http://docs.golff.com/blog/page/CertiK.png",
+                "alt": "Golff is listed on CertiK Skynet System with 94 security score",
+                "tips": "CertiK",
+                "published": "Aug 26，2021"
                 }
-        ],
+           ],
+            "zh-CN": [
+            
+               {
+                "id": 1,
+                "title": "Golff已收录于CertiK Skynet天网扫描系统 获94安全评分",
+                "description":
+                    "Golff Finance已被CertiK Skynet天网扫描系统收录，接受其提供7* 24小时运行监控和危险警报提示，且提供合约漏洞扫描，为用户资产提供安全有力保障。",
+                "mk": "http://docs.golff.com/blog/notice/CertiK1.md",
+                "img": "http://docs.golff.com/blog/page/CertiK.png",
+                "alt": "Golff已收录于CertiK Skynet天网扫描系统",
+                "tips": "CertiK",
+                "published": "Aug 26，2021"
+                },
+
+                {
+                "id": 2,
+                "title": "Golff每周数据及项目进展8.24-8.30",
+                "description":
+                    "Golff项目周报",
+                "mk": "http://docs.golff.com/blog/notice/week1.md",
+                "img": "http://docs.golff.com/blog/page/1.jpg",
+                "alt": "周报8.24-8.30",
+                "tips": "周报",
+                "published": "Aug 31，2021"
+                },
+             {
+                "id": 1,
+                "title": "Golff Bridge跨链桥全新上线",
+                "description":
+                    "Golff Bridge跨链桥已于2021年8月31日12:00（UTC+8）正式全新上线，实现币安智能链BSC与火币生态链HECO资产跨链服务，首先支持GOF跨链。",
+                "mk": "http://docs.golff.com/blog/notice/bridge1.md",
+                "img": "http://docs.golff.com/blog/page/5.png",
+                "alt": "跨链桥",
+                "tips": "跨链桥",
+                "published": "Aug 31，2021"
+                }
+               ],
         "ko-KR": [
             {
                 "id": 1,
